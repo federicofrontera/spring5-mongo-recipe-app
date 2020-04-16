@@ -17,7 +17,6 @@ import java.util.Set;
 @Document
 public class Recipe {
 
-
     @Id
     private String id;
     private String description;
